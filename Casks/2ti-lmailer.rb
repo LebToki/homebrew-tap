@@ -1,6 +1,6 @@
 cask "2ti-lmailer" do
   version "1.0.0"
-  sha256 :no_check
+  sha256 "bc13da25ed0738516c7265554c9e19b6d7680ec3546bce1a29c6fb070adaa9f4"
 
   url "https://2tinteractive.com/apps/releases/2ti-lmailer-latest-universal.dmg"
   name "2TI LMailer"
